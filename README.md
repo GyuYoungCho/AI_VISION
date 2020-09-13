@@ -9,3 +9,4 @@
   - [numpy](https://github.com/GyuYoungCho/AI_VISION/blob/master/2week_numpy.ipynb)
   - [scipy_image_processing](https://github.com/GyuYoungCho/AI_VISION/blob/master/2week_scipy_image_processing.ipynb)
   - [skimage_PIL_image_processing](https://github.com/GyuYoungCho/AI_VISION/blob/master/2week_skimage_PIL.ipynb)
+  - [PIL_numpy_drawing](https://github.com/GyuYoungCho/AI_VISION/blob/master/2week_PIL_drawing.ipynb)
