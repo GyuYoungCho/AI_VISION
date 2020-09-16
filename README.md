@@ -13,3 +13,4 @@
   - [PIL_drawing_numpy_Einsum](https://github.com/GyuYoungCho/AI_VISION/blob/master/2week_PIL3_Einsum.ipynb)
 
 #### 3week : OPENCV를 활용한 영상 처리
+  - [Einsum_opencv_intro](https://github.com/GyuYoungCho/AI_VISION/blob/master/3week_Einsum2_Opencv_introduction.ipynb)
