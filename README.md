@@ -10,3 +10,6 @@
   - [scipy_image_processing](https://github.com/GyuYoungCho/AI_VISION/blob/master/2week_scipy_image_processing.ipynb)
   - [skimage_PIL_image_processing](https://github.com/GyuYoungCho/AI_VISION/blob/master/2week_skimage_PIL.ipynb)
   - [PIL_numpy_drawing](https://github.com/GyuYoungCho/AI_VISION/blob/master/2week_PIL_drawing.ipynb)
+  - [PIL_drawing_numpy_Einsum](https://github.com/GyuYoungCho/AI_VISION/blob/master/2week_PIL3_Einsum.ipynb)
+
+#### 3week : OPENCV를 활용한 영상 처리
