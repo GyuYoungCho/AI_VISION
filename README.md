@@ -21,3 +21,4 @@
 #### 4week : 영상 처리를 위한 딥러닝
   - [Deep-learning1](https://github.com/GyuYoungCho/AI_VISION/blob/master/4week_deeplearning1.ipynb)
   - [Deep-learning2](https://github.com/GyuYoungCho/AI_VISION/blob/master/4week_deeplearning2.ipynb)
+  - [Deep-learning3_Model](https://github.com/GyuYoungCho/AI_VISION/blob/master/4week_deeplearning3_model.ipynb)
