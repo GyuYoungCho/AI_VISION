@@ -23,3 +23,4 @@
   - [Deep-learning1](https://github.com/GyuYoungCho/AI_VISION/blob/master/4week_deeplearning1.ipynb)
   - [Deep-learning2](https://github.com/GyuYoungCho/AI_VISION/blob/master/4week_deeplearning2.ipynb)
   - [Deep-learning3_Model](https://github.com/GyuYoungCho/AI_VISION/blob/master/4week_deeplearning3_model.ipynb)
+  - [CNN_theory](https://github.com/GyuYoungCho/AI_VISION/blob/master/4week_CNN_theory.ipynb)
