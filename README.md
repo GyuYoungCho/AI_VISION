@@ -25,3 +25,6 @@
   - [Deep-learning3_Model](https://github.com/GyuYoungCho/AI_VISION/blob/master/4week_deeplearning3_model.ipynb)
   - [CNN_theory](https://github.com/GyuYoungCho/AI_VISION/blob/master/4week_CNN_theory.ipynb)
   - [Softmax_Dataset](https://github.com/GyuYoungCho/AI_VISION/blob/master/4week_softmax_dataset.ipynb)
+  
+#### 5week : CNN
+  - [Pipeline_tf.Data](https://github.com/GyuYoungCho/AI_VISION/blob/master/5week_Pipeline_tfData.ipynb)
