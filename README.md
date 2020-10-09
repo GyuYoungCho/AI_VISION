@@ -28,5 +28,7 @@
   
 #### 5week : CNN
   - [Pipeline_tf.Data](https://github.com/GyuYoungCho/AI_VISION/blob/master/5week_Pipeline_tfData.ipynb)
-  - [CNN model](https://github.com/GyuYoungCho/AI_VISION/blob/master/5week_CNN_model1.ipynb)
+  - [CNN model1](https://github.com/GyuYoungCho/AI_VISION/blob/master/5week_CNN_model1.ipynb)
+  - [CNN model2 and model References](https://github.com/GyuYoungCho/AI_VISION/tree/master/CNN_model2)
+  - [CNN model3](https://github.com/GyuYoungCho/AI_VISION/blob/master/5week_CNN_model3.ipynb)
   
