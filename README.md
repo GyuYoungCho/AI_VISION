@@ -33,5 +33,6 @@
   - [CNN model3](https://github.com/GyuYoungCho/AI_VISION/blob/master/5week_CNN_model3.ipynb)
   
 #### 6week : Transfer learning, RCNN
-  - [Tranfer learning1](https://github.com/GyuYoungCho/AI_VISION/blob/master/6week_Transfer_learning.ipynb)
+  - [Transfer learning1](https://github.com/GyuYoungCho/AI_VISION/blob/master/6week_Transfer_learning.ipynb)
+  - [Transfer2_Incremental_learning](https://github.com/GyuYoungCho/AI_VISION/tree/master/6week_tranfer_incremental)
   
