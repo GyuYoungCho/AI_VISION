@@ -36,4 +36,6 @@
   - [Transfer learning1](https://github.com/GyuYoungCho/AI_VISION/blob/master/6week_Transfer_learning.ipynb)
   - [Transfer2_Incremental_learning](https://github.com/GyuYoungCho/AI_VISION/tree/master/6week_tranfer_incremental)
   - [TFhub_RNN](https://github.com/GyuYoungCho/AI_VISION/blob/master/6week_TFhub_RNN1.ipynb)
+  - [RNN_LSTM](https://github.com/GyuYoungCho/AI_VISION/blob/master/6week_RNN_LSTM.ipynb)
+  
   
