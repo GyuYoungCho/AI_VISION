@@ -41,6 +41,7 @@
   
 #### 7week : Object Detection
   - [Object Detection1](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_object_detection1.ipynb)
+  - [Object Detection2](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_Object_detection2.ipynb)
   
   
   
