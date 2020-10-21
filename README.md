@@ -40,8 +40,8 @@
   - [LRCN](https://github.com/GyuYoungCho/AI_VISION/tree/master/6week_LRCN)
   
 #### 7week : Object Detection
-  - [Object Detection1](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_object_detection1.ipynb)
-  - [Object Detection2](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_Object_detection2.ipynb)
+  - [Object Detection1(Selective search, SPPNet)](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_object_detection1.ipynb)
+  - [Object Detection2(R-CNN, Fast R-CNN)](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_Object_detection2.ipynb)
   
   
   
