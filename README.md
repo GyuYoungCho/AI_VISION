@@ -42,6 +42,7 @@
 #### 7week : Object Detection
   - [Object Detection1(Selective search, SPPNet)](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_object_detection1.ipynb)
   - [Object Detection2(R-CNN, Fast R-CNN)](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_Object_detection2.ipynb)
+  - [Object Detection3](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_Object_detection3.ipynb)
   
   
   
