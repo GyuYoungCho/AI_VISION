@@ -41,10 +41,11 @@
   
 #### 7week : Object Detection
   - [Object Detection1(Selective search, SPPNet)](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_object_detection1.ipynb)
-  - [Object Detection2(R-CNN, Fast R-CNN)](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_Object_detection2.ipynb)
-  - [Object Detection3](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_Object_detection3.ipynb)
+  - [Object Detection2(R-CNN, Fast R-CNN, Layer customizing)](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_Object_detection2.ipynb)
+  - [Object Detection3(Faster-R-CNN)](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_Object_detection3.ipynb)
   - [Object Detection4](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_object_detection4.ipynb)
-  - [Object Detection5](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_object_detection5.ipynb)
+  - [Auto Gradient](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_object_detection5.ipynb)
   
-  
+#### 8week : Generate
+  - [Style transfer](https://github.com/GyuYoungCho/AI_VISION/blob/master/8week_style_transfer.ipynb)
   
