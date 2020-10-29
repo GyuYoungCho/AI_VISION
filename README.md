@@ -48,4 +48,5 @@
   
 #### 8week : Generate
   - [Style transfer](https://github.com/GyuYoungCho/AI_VISION/blob/master/8week_style_transfer.ipynb)
+  - [Autoencoder](https://github.com/GyuYoungCho/AI_VISION/blob/master/8week_autoencoder1.ipynb)
   
