@@ -44,9 +44,11 @@
   - [Object Detection2(R-CNN, Fast R-CNN, Layer customizing)](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_Object_detection2.ipynb)
   - [Object Detection3(Faster-R-CNN)](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_Object_detection3.ipynb)
   - [Object Detection4](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_object_detection4.ipynb)
-  - [Auto Gradient](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_object_detection5.ipynb)
+  - [Auto Gradient](https://github.com/GyuYoungCho/AI_VISION/blob/master/7week_GradientTape.ipynb)
   
 #### 8week : Generate
   - [Style transfer](https://github.com/GyuYoungCho/AI_VISION/blob/master/8week_style_transfer.ipynb)
-  - [Autoencoder](https://github.com/GyuYoungCho/AI_VISION/blob/master/8week_autoencoder1.ipynb)
+  - [Autoencoder1](https://github.com/GyuYoungCho/AI_VISION/blob/master/8week_autoencoder1.ipynb)
+  - [Autoencoder2 GAN1](https://github.com/GyuYoungCho/AI_VISION/blob/master/8week_Autoencoder2_GAN1.ipynb)
+  - [GAN2](https://github.com/GyuYoungCho/AI_VISION/blob/master/8week_GAN2.ipynb)
   
