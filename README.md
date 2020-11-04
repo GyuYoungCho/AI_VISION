@@ -51,4 +51,5 @@
   - [Autoencoder1](https://github.com/GyuYoungCho/AI_VISION/blob/master/8week_autoencoder1.ipynb)
   - [Autoencoder2 GAN1](https://github.com/GyuYoungCho/AI_VISION/blob/master/8week_Autoencoder2_GAN1.ipynb)
   - [GAN2](https://github.com/GyuYoungCho/AI_VISION/blob/master/8week_GAN2.ipynb)
+  - [GAN3](https://github.com/GyuYoungCho/AI_VISION/blob/master/8week_GAN3.ipynb)
   
